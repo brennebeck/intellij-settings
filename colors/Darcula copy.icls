@@ -1,0 +1,13 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG L DZ for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+</scheme>
